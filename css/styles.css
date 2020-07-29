@@ -28,3 +28,10 @@ min-height:400px;
 .change>h2,
 .change>h3
 {font-weight:bold;}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+.navbar-dark{
+    background-color:darkmagenta;
+}
