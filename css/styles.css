@@ -35,3 +35,8 @@ body{
 .navbar-dark{
     background-color:darkmagenta;
 }
+#title{background-color: orange;
+color: white;}
+#reserve{
+    color: black;
+}
