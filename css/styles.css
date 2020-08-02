@@ -64,3 +64,8 @@ color: white;}
 #smokb{
     padding:3em;
 }
+#carouselButton{
+    right:0px;
+    position: absolute;
+    bottom:0px;
+}
